@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react firebase app
+
+##Live Host
+https://react-my-burger-8c77d.web.app
 
 ## Available Scripts
 
